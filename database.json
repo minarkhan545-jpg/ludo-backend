@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "user_demo",
+      "name": "Demo User",
+      "mobile": "01700000000",
+      "email": "demo@gmail.com",
+      "password": "123456",
+      "status": "active"
+    }
+  ],
+  "wallets": {
+    "user_demo": {
+      "balance": 0,
+      "transactions": []
+    }
+  },
+  "depositRequests": [],
+  "withdrawRequests": [],
+  "admins": [
+    {
+      "username": "admin",
+      "password": "admin123"
+    }
+  ],
+  "settings": {
+    "depositNumber": "017XXXXXXXX"
+  }
+}
