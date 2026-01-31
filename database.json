@@ -1,9 +1,0 @@
-{
-  "users": [],
-  "admins": [
-    {
-      "username": "admin",
-      "password": "admin123"
-    }
-  ]
-}
