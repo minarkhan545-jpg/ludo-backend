@@ -1,0 +1,20 @@
+{
+  "users": [],
+  "admins": [
+    {
+      "username": "admin",
+      "password": "admin123"
+    },
+    {
+      "username": "Arman270",
+      "password": "Arman999"
+    }
+  ],
+  "deposits": [],
+  "withdraws": [],
+  "paymentNumbers": {
+    "bkash": "01710814750",
+    "nagad": "01710814750",
+    "rocket": "01710814750"
+  }
+}
